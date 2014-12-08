@@ -2,11 +2,12 @@
 
 ##TODO
  - [ ] Arrays
- - [ ] Go through basics loops, control structures
- - [ ] Go through datatypes
- - [ ] Learn Classes
- - [ ] Learn Templates
- - [ ] Learn to use makefiles
- - [ ] Make a game with SDL2
+ - [ ] Classes
+ - [ ] Create Game with SDL2
+ - [ ] Datatypes (started)
+ - [ ] Functions (started)
+ - [ ] Loops, Control Structures
+ - [ ] Makefiles
  - [ ] Pointers
+ - [ ] Templates
  - [ ] Vectors
