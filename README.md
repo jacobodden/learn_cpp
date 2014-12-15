@@ -4,10 +4,10 @@
  - [ ] Arrays
  - [ ] Classes
  - [ ] Create Game with SDL2
- - [ ] Datatypes (started)
- - [ ] Functions (started)
- - [ ] Loops, Control Structures
+ - [x] Datatypes
+ - [x] Functions
+ - [x] Loops, Control Structures
  - [ ] Makefiles
- - [ ] Pointers
+ - [ ] Pointers (started)
  - [ ] Templates
  - [ ] Vectors
