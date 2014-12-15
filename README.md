@@ -1,13 +1,11 @@
 #LEARN_CPP
 
 ##TODO
- - [ ] Arrays
- - [ ] Classes
+ - [x] Classes
  - [ ] Create Game with SDL2
  - [x] Datatypes
  - [x] Functions
  - [x] Loops, Control Structures
  - [ ] Makefiles
- - [ ] Pointers (started)
- - [ ] Templates
- - [ ] Vectors
+ - [x] Namespaces
+ - [x] Pointers
